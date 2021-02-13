@@ -8,5 +8,28 @@
     background-size: cover;
 }
 
+.title {
+    font-weight: 1000;
+    font-size: 130px;
+    margin-left: 10px;
+    padding-top: 80px;
+    color: black;
+}
+
+.subtitle {
+    
+    font-family: "Arial";
+    font-weight: 500;
+    font-size: 80px;
+    margin-left: 10px;
+}
+
+.sentence {
+   
+    font-family: "Arial";
+    font-size: 40px;
+    margin-left: 10px;
+}
+
 /*../../public/Images/homepage.PNG */
 
