@@ -4,5 +4,9 @@
     margin: 0px;
     padding: 100px;
     height: 700px;
-    
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+/*../../public/Images/homepage.PNG */
+
