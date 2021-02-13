@@ -3,7 +3,7 @@
     background-image: url("woman.JPG");
     margin: 0px;
     padding: 100px;
-    height: 700px;
+    height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -31,5 +31,31 @@
     margin-left: 10px;
 }
 
-/*../../public/Images/homepage.PNG */
+.rectangle {
+    display: block;
+    width: 1200px;
+    height: 250px;
+    background: #7ECCCB;
+    margin-left: 210px;
+    margin-right: 600px;
+  }
+
+  .rectangle2 {
+      display: block;
+      width: 1200px;
+      height: 250px;
+      background: #30C2C0;
+      margin-left: 210px;
+      margin-right: 600px;
+  }
+
+  .rectangle3 {
+    display: block;
+    width: 1200px;
+    height: 250px;
+    background: #0D9A98;
+    margin-left: 210px;
+    margin-right: 600px;
+  }
+
 
